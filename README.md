@@ -27,4 +27,4 @@ This repository is prepared so you can download, set your API key, and run local
 - This project does not include advanced auth or rate limiting — do not expose your API key publicly.
 
 ## Author
-Nithin M V (Vibe Coding)
+Nithin M V
